@@ -12,7 +12,7 @@ I am a software development student, currently in week 4 of the CS50x and I inte
  
  <!-- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">, <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> and <img src="http://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white"/>
  <!--
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**. -->
  
