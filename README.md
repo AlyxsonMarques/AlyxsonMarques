@@ -35,7 +35,7 @@ I am a software development student, currently in week 4 of the CS50x and I inte
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="http://img.shields.io/badge/-Gitpod-430098?style=flat&logo=gitpod&logoColor=white">
 
 
 ### Other Languages I know
