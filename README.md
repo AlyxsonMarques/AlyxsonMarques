@@ -6,13 +6,13 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p> -->
 
-I am a software development student, currently in week 4 of the CS50x and I intend to follow the web track
+I am a software development student.
  
  🔭 I’m planning for a Project **(don't have a name yet)**.
  
  <!-- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">, <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> and <img src="http://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white"/>
+ <!-- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">, <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> and <img src="http://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white"/> -->
  <!--
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**. -->
  
@@ -33,11 +33,10 @@ I am a software development student, currently in week 4 of the CS50x and I inte
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <!-- <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> -->
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
 
-### Other Languages I know
+<!-- ### Other Languages I know -->
 <!-- <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C-%20&%20659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
