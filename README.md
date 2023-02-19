@@ -1,6 +1,8 @@
 <div align="center">
 <h1 style="text-align: center;">Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋</h1>
 </div>
+
+
 ---
 
 <!--<p align="center">
