@@ -1,5 +1,5 @@
-<div align="center" border-style="none">
-<h1 style="border-bottom: 0px"> Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋 </h1>
+<div style="align: center">
+Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋
 </div>
 
 
