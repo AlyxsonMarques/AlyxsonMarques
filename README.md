@@ -65,3 +65,5 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/a
 <div align="center" border-bottom="none">
 Let's connect 👨‍💻 and forge the future together.😁✌
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3557&height=120&section=footer"/>
