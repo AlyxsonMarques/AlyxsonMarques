@@ -1,5 +1,5 @@
 <div align="center" font-size="72" style="font-size: 72">
-Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋
+  <font size="+2">Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋</font>
 </div>
 
 
