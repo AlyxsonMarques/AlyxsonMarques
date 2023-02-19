@@ -1,5 +1,7 @@
 ### Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+Alyxson+here+👋+:%29)](https://git.io/typing-svg)
+
 ---
 
 <!--<p align="center">
