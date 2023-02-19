@@ -1,4 +1,6 @@
-<div align="center" font-size="72" style="font-size: 72">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3557&height=120&section=header"/>
+
+<div align="center">
 Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋
 </div>
 
