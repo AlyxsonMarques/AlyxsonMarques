@@ -8,7 +8,7 @@
 
 I am a back-end development lover.
  
- 🔭 I’m planning for a Project **(don't have a name yet)**.
+ <!-- 🔭 I’m planning for a Project **(don't have a name yet)**. -->
  
  <!-- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
  
