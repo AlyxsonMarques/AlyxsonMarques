@@ -6,8 +6,10 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p> -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyxsonMarques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyxsonMarques&layout=compact&theme=dark"/>
- 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyxsonMarques&show_icons=true&theme=dark&include_all_commits=true count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyxsonMarques&layout=compact&theme=dark"/>
+</div>
  <!-- 🔭 I’m planning for a Project **(don't have a name yet)**. -->
  
  <!-- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
