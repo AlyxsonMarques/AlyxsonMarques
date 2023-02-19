@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p> -->
 
-I am a back-end development lover.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kigekey&show_icons=true&theme=transparent"/>
  
  <!-- 🔭 I’m planning for a Project **(don't have a name yet)**. -->
  
