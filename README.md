@@ -1,4 +1,4 @@
-<div align=center style="font-size: 72px">
+<div align=center style="font-size: 72">
 Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋
 </div>
 
