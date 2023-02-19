@@ -34,6 +34,7 @@ Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/
 
 <div align="center" border-style="none">
 Tech & Tools Preference
+  <br>
 </div>
 
 <div align="center" border-bottom="none">
