@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p> -->
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyxsonMarques&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyxsonMarques&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
