@@ -1,5 +1,5 @@
 <div align="center" font-size="72" style="font-size: 72">
-  <font size="72">Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋</font>
+Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋
 </div>
 
 
@@ -33,7 +33,7 @@
 ---
 
 <div align="center" border-style="none">
-  <h1 style="border:0"> Tech & Tools Preference </h1>
+Tech & Tools Preference
 </div>
 
 <div align="center" border-bottom="none">
