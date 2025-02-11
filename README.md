@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3557&height=120&section=header"/>
 <div align="center">
-Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here 👋
+Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here
   <br></br>
 </div>
 
@@ -61,9 +61,5 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/a
 <!--### You can checkout my blogs :loudspeaker: 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
 [Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) -->
-
-<div align="center" border-bottom="none">
-Let's connect 👨‍💻 and forge the future together.😁✌
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3557&height=120&section=footer"/>
